@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rafa\\Desktop\\microservices\\Play.catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {}
+    "C:\\Users\\Rafa\\Desktop\\microservices-example\\Play.catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rafa\\Desktop\\microservices\\Play.catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {
+    "C:\\Users\\Rafa\\Desktop\\microservices-example\\Play.catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafa\\Desktop\\microservices\\Play.catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Rafa\\Desktop\\microservices-example\\Play.catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
         "projectName": "Play.Catalog.Service",
-        "projectPath": "C:\\Users\\Rafa\\Desktop\\microservices\\Play.catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+        "projectPath": "C:\\Users\\Rafa\\Desktop\\microservices-example\\Play.catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
         "packagesPath": "C:\\Users\\Rafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafa\\Desktop\\microservices\\Play.catalog\\src\\Play.Catalog.Service\\obj\\",
+        "outputPath": "C:\\Users\\Rafa\\Desktop\\microservices-example\\Play.catalog\\src\\Play.Catalog.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rafa\\AppData\\Roaming\\NuGet\\NuGet.Config"

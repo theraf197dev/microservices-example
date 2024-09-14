@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pHoonw6I7nHl4J1e9t+pzyh+WLSNshWLubSiIKdVDE2DIshiyQX4ZWQ5RqrZ+7JFrMaoAvYHm6lAo6MWmQGe3w==",
+  "dgSpecHash": "wGM+yi6V17V+CHjc8sbmx0CnP/kSInj6kwlURP2f/23uXTMkpHqcI3AXj+nT2NEsNMakQokxqWgV9XkZZLSteQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafa\\Desktop\\microservices\\Play.catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+  "projectFilePath": "C:\\Users\\Rafa\\Desktop\\microservices-example\\Play.catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafa\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Rafa\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
