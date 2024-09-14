@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Lk6QXvzTkJCeXqk3KUTbTi4o200J26Fj0/a5byf5tduN4quHsW7qyNPoFf86xv+Htt+s6SEfUCGkB2djYXONw==",
+  "dgSpecHash": "A31WbOEzqtqHBZAVtnuyKZXmLUqbORyNHKPlMJ8hAMnBPiE33NRFCwgRh7pY4CPdn/LFVJ1Hn/q/wF33mjSMfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafa\\Desktop\\microservices\\Play.inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+  "projectFilePath": "C:\\Users\\Rafa\\Desktop\\microservices-example\\Play.inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafa\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Rafa\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
@@ -44,13 +44,5 @@
     "C:\\Users\\Rafa\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
     "C:\\Users\\Rafa\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU3003",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Paquete \"Polly 7.2.4\" del origen \"https://api.nuget.org/v3/index.json\": La firma del paquete no es válida o no se puede comprobar en esta plataforma.",
-      "libraryId": "Polly"
-    }
-  ]
+  "logs": []
 }

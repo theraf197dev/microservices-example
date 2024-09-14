@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rafa\\Desktop\\microservices\\Play.inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj": {}
+    "C:\\Users\\Rafa\\Desktop\\microservices-example\\Play.inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rafa\\Desktop\\microservices\\Play.inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj": {
+    "C:\\Users\\Rafa\\Desktop\\microservices-example\\Play.inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafa\\Desktop\\microservices\\Play.inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Rafa\\Desktop\\microservices-example\\Play.inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
         "projectName": "Play.Inventory.Service",
-        "projectPath": "C:\\Users\\Rafa\\Desktop\\microservices\\Play.inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+        "projectPath": "C:\\Users\\Rafa\\Desktop\\microservices-example\\Play.inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
         "packagesPath": "C:\\Users\\Rafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafa\\Desktop\\microservices\\Play.inventory\\src\\Play.Inventory.Service\\obj\\",
+        "outputPath": "C:\\Users\\Rafa\\Desktop\\microservices-example\\Play.inventory\\src\\Play.Inventory.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rafa\\AppData\\Roaming\\NuGet\\NuGet.Config"

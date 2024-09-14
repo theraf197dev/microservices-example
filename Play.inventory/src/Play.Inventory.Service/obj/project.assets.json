@@ -1696,11 +1696,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafa\\Desktop\\microservices\\Play.inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+      "projectUniqueName": "C:\\Users\\Rafa\\Desktop\\microservices-example\\Play.inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
       "projectName": "Play.Inventory.Service",
-      "projectPath": "C:\\Users\\Rafa\\Desktop\\microservices\\Play.inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+      "projectPath": "C:\\Users\\Rafa\\Desktop\\microservices-example\\Play.inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
       "packagesPath": "C:\\Users\\Rafa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafa\\Desktop\\microservices\\Play.inventory\\src\\Play.Inventory.Service\\obj\\",
+      "outputPath": "C:\\Users\\Rafa\\Desktop\\microservices-example\\Play.inventory\\src\\Play.Inventory.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rafa\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1762,14 +1762,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU3003",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Paquete \"Polly 7.2.4\" del origen \"https://api.nuget.org/v3/index.json\": La firma del paquete no es válida o no se puede comprobar en esta plataforma.",
-      "libraryId": "Polly"
-    }
-  ]
+  }
 }
