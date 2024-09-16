@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9shppoEePgs=",
+  "dgSpecHash": "vcvoGBg1Rys=",
   "success": true,
   "projectFilePath": "C:\\Users\\Rafa\\Desktop\\microservices-example\\Play.catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
   "expectedPackageFiles": [
@@ -119,18 +119,8 @@
     "C:\\Users\\Rafa\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\Rafa\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\Rafa\\.nuget\\packages\\system.xml.readerwriter\\4.3.1\\system.xml.readerwriter.4.3.1.nupkg.sha512",
-    "C:\\Users\\Rafa\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\Rafa\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Rafa\\.nuget\\packages\\play.catalog.contracts\\1.0.0\\play.catalog.contracts.1.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Play.Catalog.Service depends on Play.Common (>= 1.0.1) but Play.Common 1.0.1 was not found. An approximate best match of Play.Common 1.0.2 was resolved.",
-      "libraryId": "Play.Common",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    }
-  ]
+  "logs": []
 }

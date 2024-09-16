@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <authors>Play.Catalog.Contracts</authors>
     <description>Package Description</description>
-    <repository type="git" commit="902cee6407ff5911921c6d911f01fc0eeedbaf55" />
+    <repository type="git" commit="514ff9b8631c90f72d966369f657dd92ea355c12" />
     <dependencies>
       <group targetFramework="net5.0" />
     </dependencies>

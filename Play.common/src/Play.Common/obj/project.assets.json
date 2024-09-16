@@ -1974,7 +1974,7 @@
     "C:\\Users\\Rafa\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "restore": {
       "projectUniqueName": "C:\\Users\\Rafa\\Desktop\\microservices-example\\Play.common\\src\\Play.Common\\Play.Common.csproj",
       "projectName": "Play.Common",
