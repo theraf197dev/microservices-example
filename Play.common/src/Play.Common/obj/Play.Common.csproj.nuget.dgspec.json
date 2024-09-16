@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rafa\\Desktop\\microservices\\Play.common\\src\\Play.Common\\Play.Common.csproj": {}
+    "C:\\Users\\Rafa\\Desktop\\microservices-example\\Play.common\\src\\Play.Common\\Play.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rafa\\Desktop\\microservices\\Play.common\\src\\Play.Common\\Play.Common.csproj": {
-      "version": "1.0.0",
+    "C:\\Users\\Rafa\\Desktop\\microservices-example\\Play.common\\src\\Play.Common\\Play.Common.csproj": {
+      "version": "1.0.1",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafa\\Desktop\\microservices\\Play.common\\src\\Play.Common\\Play.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Rafa\\Desktop\\microservices-example\\Play.common\\src\\Play.Common\\Play.Common.csproj",
         "projectName": "Play.Common",
-        "projectPath": "C:\\Users\\Rafa\\Desktop\\microservices\\Play.common\\src\\Play.Common\\Play.Common.csproj",
+        "projectPath": "C:\\Users\\Rafa\\Desktop\\microservices-example\\Play.common\\src\\Play.Common\\Play.Common.csproj",
         "packagesPath": "C:\\Users\\Rafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafa\\Desktop\\microservices\\Play.common\\src\\Play.Common\\obj\\",
+        "outputPath": "C:\\Users\\Rafa\\Desktop\\microservices-example\\Play.common\\src\\Play.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Rafa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Rafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,12 +35,25 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.2.5, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -61,7 +77,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -70,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

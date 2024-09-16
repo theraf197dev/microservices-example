@@ -1,0 +1,12 @@
+C:\Users\Rafa\Desktop\microservices-example\Play.catalog\src\Play.Catalog.Contracts\bin\Release\net5.0\Play.Catalog.Contracts.deps.json
+C:\Users\Rafa\Desktop\microservices-example\Play.catalog\src\Play.Catalog.Contracts\bin\Release\net5.0\Play.Catalog.Contracts.dll
+C:\Users\Rafa\Desktop\microservices-example\Play.catalog\src\Play.Catalog.Contracts\bin\Release\net5.0\Play.Catalog.Contracts.pdb
+C:\Users\Rafa\Desktop\microservices-example\Play.catalog\src\Play.Catalog.Contracts\obj\Release\net5.0\Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafa\Desktop\microservices-example\Play.catalog\src\Play.Catalog.Contracts\obj\Release\net5.0\Play.Catalog.Contracts.AssemblyInfoInputs.cache
+C:\Users\Rafa\Desktop\microservices-example\Play.catalog\src\Play.Catalog.Contracts\obj\Release\net5.0\Play.Catalog.Contracts.AssemblyInfo.cs
+C:\Users\Rafa\Desktop\microservices-example\Play.catalog\src\Play.Catalog.Contracts\obj\Release\net5.0\Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\Desktop\microservices-example\Play.catalog\src\Play.Catalog.Contracts\obj\Release\net5.0\Play.Catalog.Contracts.sourcelink.json
+C:\Users\Rafa\Desktop\microservices-example\Play.catalog\src\Play.Catalog.Contracts\obj\Release\net5.0\Play.Catalog.Contracts.dll
+C:\Users\Rafa\Desktop\microservices-example\Play.catalog\src\Play.Catalog.Contracts\obj\Release\net5.0\refint\Play.Catalog.Contracts.dll
+C:\Users\Rafa\Desktop\microservices-example\Play.catalog\src\Play.Catalog.Contracts\obj\Release\net5.0\Play.Catalog.Contracts.pdb
+C:\Users\Rafa\Desktop\microservices-example\Play.catalog\src\Play.Catalog.Contracts\obj\Release\net5.0\ref\Play.Catalog.Contracts.dll
